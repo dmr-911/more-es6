@@ -33,4 +33,3 @@ class College extends Common{
 const aamir = new Support("Aamir", "Gulistan");
 
 const college = new College('RMC', 'Mymensingh', 4);
-console.log(college);

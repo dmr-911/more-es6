@@ -4,7 +4,6 @@ const longest = friends.map(friend => friend.length);
 console.log(longest);
 
 const products = [
-
     { name: 'Mobile Phone', price: 15000, color: 'black'},
     { name: 'Smart Watch', price: 5000, color: 'black'},
     { name: 'Water Bottle', price: 30, color: 'white'},
